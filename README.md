@@ -16,11 +16,13 @@ A modern, full-stack Task Management application featuring a responsive Vue 3 fr
 | **TypeScript**               | **TypeScript**                 |
 | **Pinia** (State Management) | **MongoDB** & **Mongoose**     |
 | **Vite** (Build Tool)        | **Supabase Storage** (Avatars) |
-| **Vue Router**               | **JWT & BCrypt** (Auth)        |
+| **PWA Support** (Vite PWA)   | **JWT & BCrypt** (Auth)        |
 
 ## Key Features
 
+- **PWA Ready**: Install the application on your desktop or mobile device for a native-like experience.
 - **Interactive Dashboard**: Drag-and-drop task reordering and filtering.
+- **Offline Support**: Access the application even without an internet connection (cached assets).
 - **Authentication**: Secure registration, login, and profile management with avatar uploads.
 - **Task Management**: Full CRUD operations with status tracking (Pending/Completed).
 - **Admin Interface**: Comprehensive management of all users and tasks across the system.
